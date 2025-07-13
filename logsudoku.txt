@@ -1,0 +1,26 @@
+==================================================
+
+Resolução de Sudokus com Coloração de Grafos - Comparativo entre Backtracking Simples e DSATUR
+
+---------------DIM0549 - Grafos---------------13 de julho de 2025
+
+Componentes: Adriel Torquato Costa e Mariana Emerenciano Miranda
+
+==================================================
+RESUMO DOS RESULTADOS
+==================================================
+Total de Sudokus: 50 | Execuções por Sudoku: 30
+--------------------------------------------------
+Métrica                   | Backtracking Simples |          DSATUR
+--------------------------------------------------
+Tempo médio (s)           |          0.2569 |          0.0350
+Nós explorados (média)    |           24493 |             168
+Backtracks médios         |           24441 |             115
+==================================================
+
+Tempo total do experimento: 438.84s
+
+Resultados (JSON) salvos em: results_1752409226.json
+Dados (CSV) salvos em: plot_data_1752409226.csv
+
+Experimento concluído! :)
